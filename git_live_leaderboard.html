@@ -720,6 +720,86 @@
             transform: scale(1.1);
             box-shadow: 0 8px 30px rgba(255, 0, 229, 0.6);
         }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            .title {
+                font-size: 2rem;
+            }
+
+            .stats-bar {
+                flex-direction: column;
+                gap: 20px;
+            }
+
+            .stat-item {
+                padding: 15px;
+            }
+
+            .stat-value {
+                font-size: 2rem;
+            }
+
+            /* Adjust Leaderboard Grid */
+            .leaderboard-header,
+            .player-row {
+                grid-template-columns: 50px 1fr auto;
+                /* Hide Merge Time on mobile */
+                gap: 10px;
+                padding: 15px 10px;
+            }
+
+            /* Hide Merge Time header and data */
+            .leaderboard-header span:nth-child(3),
+            .player-row .merge-time {
+                display: none;
+            }
+
+            /* Adjust PR link alignment */
+            .leaderboard-header span:last-child {
+                text-align: right;
+            }
+
+            .player-row .pr-link {
+                text-align: right;
+            }
+
+            /* Setup Screen adjustments */
+            .setup-card {
+                padding: 30px 20px;
+            }
+
+            .setup-title {
+                font-size: 1.8rem;
+            }
+
+            /* Tutorial Overlay adjustments */
+            .tutorial-card {
+                padding: 25px;
+                width: 95%;
+            }
+
+            .tutorial-title {
+                font-size: 1.4rem;
+            }
+
+            .tutorial-content {
+                font-size: 1rem;
+            }
+
+            .tutorial-icon {
+                font-size: 3rem;
+            }
+
+            .step-dot {
+                width: 10px;
+                height: 10px;
+            }
+        }
     </style>
 </head>
 
