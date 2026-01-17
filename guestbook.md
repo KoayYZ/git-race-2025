@@ -11,6 +11,7 @@ Muhammad Hafizuddin Hakimi
 - Wong Li Hong (@wonglihong)
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
+- Gregory Hong (@BlueSoul2003)
 - Wong Qi Heng (@WongQiHeng06)
 ---
 
