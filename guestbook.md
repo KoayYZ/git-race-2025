@@ -7,6 +7,7 @@ Welcome racers! Add your name below to join the race! 🏁
 ## 🏆 Participants
 
 <!-- Add your name below this line! Format: - Your Name (@github-username) -->
+- Wong Li Hong (@wonglihong)
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
 
