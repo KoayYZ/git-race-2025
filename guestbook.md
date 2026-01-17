@@ -9,7 +9,7 @@ Welcome racers! Add your name below to join the race! 🏁
 <!-- Add your name below this line! Format: - Your Name (@github-username) -->
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
-
+- Gregory Hong (@BlueSoul2003)
 ---
 
 ## How to Participate
